@@ -1,0 +1,4 @@
+.do_built*
+*.did
+*.tmp
+tests/python/list
