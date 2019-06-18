@@ -1,3 +1,7 @@
 [submodule "redo"]
 	path = redo
 	url = https://github.com/apenwarr/redo.git
+[submodule "redo-fixed"]
+	path = redo-fixed
+	url = https://github.com/maoe/redo.git
+	branch = fix-directory-nonexistent
